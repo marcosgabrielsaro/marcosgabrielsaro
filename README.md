@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, math, neuroscience and foreign languages such as English and Germany.
 - 🌱 I’m currently learning web development through https://www.theodinproject.com/.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 You can reach me by typing @marcosgabrielsaro on Instagram or by sending me an e-mail to mgsr.personal@protonmail.com.
+- 📫 You can reach me by typing @marcosgabrielsaro on Instagram or by sending an e-mail to mgsr.personal@protonmail.com.
 
 <!---
 marcosgabrielsaro/marcosgabrielsaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
